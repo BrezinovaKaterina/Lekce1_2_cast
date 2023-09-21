@@ -3,7 +3,7 @@ import java.time.LocalDate;
 public class Main {
     public static void main(String[] args) {
         String name="Jana Nová";
-        LocalDate datNar= LocalDate.of(2000,01,06);
+        LocalDate datNar= LocalDate.of(2000,1,6);
         String mesto="Tábor";
         String SPZ="7A7 7777";
         Double spotreba=(5.3);
